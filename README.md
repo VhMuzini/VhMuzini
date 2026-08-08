@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VhMuzini/VhMuzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# VhMuzini
 
-Here are some ideas to get you started:
+*"Close the world, txEn the nExt."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### whoami
+
+- Desenvolvedor Web — Brasil 🇧🇷
+- Trabalho com **Java / Spring**, **PostgreSQL**, **Docker** e um pouco de **Ionic/Capacitor**
+- No momento, mergulhado em um sistema GIS (mapas, geoprocessamento, esse tipo de coisa)
+- Sempre aprendendo. Sempre conectado.
+
+### the wired
+
+- 🎮 FFXIV — Primal, sempre online
+- 📡 Fã de *Serial Experiments Lain* — "Present day, present time."
+- 🌐 Acredito que, no fundo, todos nós já estamos um pouco conectados à Wired
+
+---
+
+<div align="center">
+<sub>let's all love lain</sub>
+</div>
