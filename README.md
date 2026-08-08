@@ -1,1 +1,41 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9RmlyYStDb2RlJnNpemU9MjImZHVyYXRpb249MzAwMCZwYXVzZT0xMDAwJmNvbG9yPTZFRTdGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9NDYwJmxpbmVzPVByZXNlbnQrZGF5JTJDK3ByZXNlbnQrdGltZS4uLjtXZWIrRGV2ZWxvcGVyKyU3QytKYXZhKyUyRitTcHJpbmcrJTJGK1Bvc3RncmVTUUw7QWx3YXlzK2xlYXJuaW5nLitBbHdheXMrY29ubmVjdGVkLiIgYWx0PSJUeXBpbmcgU1ZHIiAvPgoKPC9kaXY+CgotLS0KCiMjIyB3aG9hbWkKCi0gV2ViIERldmVsb3BlciDigJQgQnJhemlsIPCfh6fwn4e3Ci0gV29ya2luZyB3aXRoICoqSmF2YSAvIFNwcmluZyoqLCAqKlBvc3RncmVTUUwqKiwgKipEb2NrZXIqKiwgYW5kIGEgYml0IG9mICoqSW9uaWMvQ2FwYWNpdG9yKioKLSBBbHdheXMgbGVhcm5pbmcuIEFsd2F5cyBjb25uZWN0ZWQuCgojIyMgdGhlIHdpcmVkCgotIPCfk6EgKlNlcmlhbCBFeHBlcmltZW50cyBMYWluKiBmYW4g4oCUICJQcmVzZW50IGRheSwgcHJlc2VudCB0aW1lLiIKLSDwn4yQIERlZXAgZG93biwgSSBiZWxpZXZlIHdlJ3JlIGFsbCBhbHJlYWR5IGEgbGl0dGxlIGNvbm5lY3RlZCB0byB0aGUgV2lyZWQKCiMjIyBzdGF0cwoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9VmhNdXppbmkmc2hvd19pY29ucz10cnVlJnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZjb3VudF9wcml2YXRlPXRydWUiIGFsdD0iR2l0SHViIFN0YXRzIiBoZWlnaHQ9IjE2NSIgLz4KPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPVZoTXV6aW5pJmxheW91dD1jb21wYWN0JnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSIgYWx0PSJUb3AgTGFuZ3MiIGhlaWdodD0iMTY1IiAvPgoKPC9kaXY+CgojIyMgY29udHJpYnV0aW9uIHNuYWtlCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKPGltZyBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9WaE11emluaS9WaE11emluaS9vdXRwdXQvZ2l0aHViLWNvbnRyaWJ1dGlvbi1ncmlkLXNuYWtlLWRhcmsuc3ZnIiBhbHQ9IlNuYWtlIGFuaW1hdGlvbiIgLz4KCjwvZGl2PgoKLS0tCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgo8c3ViPmxldCdzIGFsbCBsb3ZlIGxhaW48L3N1Yj4KPC9kaXY+Cg==
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=460&lines=Present+day%2C+present+time...;Web+Developer+%7C+Java+%2F+Spring+%2F+PostgreSQL;Always+learning.+Always+connected." alt="Typing SVG" />
+
+</div>
+
+---
+
+### whoami
+
+- Web Developer — Brazil 🇧🇷
+- Working with **Java / Spring**, **PostgreSQL**, **Docker**, and a bit of **Ionic/Capacitor**
+- Always learning. Always connected.
+
+### the wired
+
+- 📡 *Serial Experiments Lain* fan — "Present day, present time."
+- 🌐 Deep down, I believe we're all already a little connected to the Wired
+
+### stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VhMuzini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhMuzini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+
+</div>
+
+### contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VhMuzini/VhMuzini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>let's all love lain</sub>
+</div>
