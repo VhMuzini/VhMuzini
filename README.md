@@ -12,21 +12,25 @@
 - 7+ years of experience building web and mobile applications
 - 2 years leading a development team
 - Currently focused on **Java / Spring**, **PostgreSQL**, **Docker**, and GIS systems
-- Background also spans **JavaScript/TypeScript**, **Angular**, **C# / .NET Core**, **Node.js**, **Flutter**, **Ionic**, **SQL Server**, **MySQL**, **MongoDB**, and **Android**
 - [LinkedIn](https://www.linkedin.com/in/vitor-muzini)
 
 ### stack
 
-<div align="center">
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,ts,js,angular,dotnet,cs,nodejs,flutter,ionic,mysql,mongodb,android,git" alt="Skills" />
+**Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs,spring,flutter,ionic" alt="Frameworks" />
 
-</div>
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql" alt="Databases" />
 
-### the wired
-
-- 📡 *Serial Experiments Lain* fan — "Present day, present time."
-- 🌐 Deep down, I believe we're all already a little connected to the Wired
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,androidstudio" alt="Tools" />
 
 ### stats
 
@@ -47,6 +51,16 @@
 
 ---
 
-<div align="center">
+<details>
+<summary>░▒▓ . . . ▓▒░</summary>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/VhMuzini/VhMuzini/main/assets/matrix-rain.svg" alt="the wired" width="100%" />
+
+- 📡 *Serial Experiments Lain* fan — "Present day, present time."
+- 🌐 Deep down, I believe we're all already a little connected to the Wired
+
 <sub>let's all love lain</sub>
-</div>
+
+</details>
