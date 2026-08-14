@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=460&lines=Present+day%2C+present+time...;Full+Stack+Developer+%7C+7%2B+years;Always+learning.+Always+connected." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=460&lines=Present+day%2C+present+time...;Full+stack+developer+%7C+Software+Engineer;Always+learning.+Always+connected." alt="Typing SVG" />
 
 </div>
 
@@ -18,19 +18,32 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs" alt="Languages" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
 
 **Frameworks**
 <br>
-<img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs,spring,flutter,ionic" alt="Frameworks" />
+<a href="https://angular.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+<a href="https://ionicframework.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ionic" alt="Ionic" /></a>
 
 **Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql" alt="Databases" />
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" /></a>
 
 **Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,git,androidstudio" alt="Tools" />
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
 
 ### stats
 
