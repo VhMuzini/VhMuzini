@@ -71,9 +71,6 @@
 
 <img src="https://raw.githubusercontent.com/VhMuzini/VhMuzini/main/assets/matrix-rain.svg" alt="the wired" width="100%" />
 
-- 📡 *Serial Experiments Lain* fan — "Present day, present time."
-- 🌐 Deep down, I believe we're all already a little connected to the Wired
-
 <sub>let's all love lain</sub>
 
 </details>
